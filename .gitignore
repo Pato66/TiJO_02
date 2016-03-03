@@ -1,4 +1,5 @@
 .idea/
+#Added lines
 *.txt
 !app/mix/user/*.txt
 app/**/*.js
